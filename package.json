@@ -10,7 +10,7 @@
     "minecraft",
     "downloader"
   ],
-  "author": "",
+  "author": "swiftxnessteam",
   "license": "ISC",
   "dependencies": {
     "adm-zip": "^0.5.10",
